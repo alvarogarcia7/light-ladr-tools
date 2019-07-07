@@ -1,4 +1,4 @@
-PHONY: init
+.PHONY: init
 init:
     docker run -it --rm -v ${PWD}:/doc/adr sshambir/adr-tools adr init
 
