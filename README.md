@@ -6,7 +6,7 @@ Layer on top of npryce/adr-tools to make it more confortable and lightweight
 
   * Run the ADR tools in docker
   * Make it as straight-forward as possible
-  * Do not create a new domain on top of the ADR one
+  * Do not create a new domain language (DSL) on top of the ADR one
   
 ## Running it: Firsts steps with ADR
 
